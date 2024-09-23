@@ -4,7 +4,6 @@ function timelineone(){
             trigger:"#home",
             start:"top top",
             scrub:1,
-           /* markers:true,*/
             pin:true,
             end:"bottom -250%"
         }
